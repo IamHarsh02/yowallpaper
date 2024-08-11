@@ -12,3 +12,5 @@ Key Features:
 -Transform your device's look and feel with the Yo Wallpaper App. Download now and give your screen the makeover it deserves!
 
 ![WhatsApp Image 2024-08-11 at 3 07 54 PM](https://github.com/user-attachments/assets/fc9ee16e-5c04-47fb-abcf-a15a1f400873)
+
+Check out Releases to download the latest APK (1.51 MB).
