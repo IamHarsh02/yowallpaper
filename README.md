@@ -10,7 +10,4 @@ Key Features:
 -Simple Wallpaper Setting: Choose your favorite wallpaper and set it as your home or lock screen with a single tap.
 -Modern Design: Our sleek and modern UI ensures a seamless and enjoyable browsing experience.
 -Transform your device's look and feel with the Yo Wallpaper App. Download now and give your screen the makeover it deserves!
-![walpaper_set](https://github.com/user-attachments/assets/1b1f197a-f2c1-4f26-8614-a7d20da1df28)
-![set_walpaper](https://github.com/user-attachments/assets/d6a1ebf4-5562-440b-afde-085e2590ee76)
-![cars_wallpaper](https://github.com/user-attachments/assets/caa1d4e7-7d3f-4ce4-807b-71cac31bf197)
 
