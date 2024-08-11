@@ -11,6 +11,8 @@ Key Features:
 -Modern Design: Our sleek and modern UI ensures a seamless and enjoyable browsing experience.
 -Transform your device's look and feel with the Yo Wallpaper App. Download now and give your screen the makeover it deserves!
 
-![WhatsApp Image 2024-08-11 at 3 07 54 PM](https://github.com/user-attachments/assets/fc9ee16e-5c04-47fb-abcf-a15a1f400873)
+![WhatsApp Image 2024-08-11 at 3 07 54 PM](https://github.com/user-attachments/assets/fc9ee16e-5c04-47fb-abcf-a15a1f400873) .
+
+# Download
 
 Check out [Releases](https://github.com/IamHarsh02/yowallpaper/releases/tag/v1.0) to download the latest APK (4.30 MB).
